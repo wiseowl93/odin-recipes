@@ -9,6 +9,12 @@ h1 {
     background-color: #0000aa;
 }
 
+h2,
+.lh2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
 a {
     color: white;
     font-weight: bold
@@ -31,6 +37,6 @@ img {
 }
 
 .body2 {
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
