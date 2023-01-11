@@ -11,8 +11,9 @@ h1 {
 
 h2,
 .lh2 {
+    font-family: Black Han Sans;
     font-size: 25px;
-    font-weight: bold;
+    font-weight: 100;
 }
 
 a {
